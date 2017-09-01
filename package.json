@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MichaelDurfey/RogueLikeGame#readme",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.15.4",
     "phaser": "^2.6.2"
   }
