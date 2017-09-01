@@ -1,0 +1,23 @@
+{
+  "name": "roguelikegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelDurfey/RogueLikeGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelDurfey/RogueLikeGame/issues"
+  },
+  "homepage": "https://github.com/MichaelDurfey/RogueLikeGame#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "phaser": "^2.6.2"
+  }
+}
